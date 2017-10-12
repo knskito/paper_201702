@@ -1,6 +1,7 @@
 # paper_201702
 
 **A Survey for the Methodology of the Theories on Cumulative Cultural Evolution**
+
 Abstract: 
 Why only human-beings acquired complex cultural traits? In this research, we survey the theories on cumulative cultural evolution that has been dealing with this question. 
 This is important because cultural evolution is so interdisciplinary a research field as not able to sufficiently systematize existing methods even though we focused only on cumulative and theoretical aspects.
